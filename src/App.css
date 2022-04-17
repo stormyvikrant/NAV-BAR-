@@ -1,0 +1,39 @@
+
+#navbar{
+
+  width:90%;
+  height:50px;
+  margin:auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border:1px solid ;
+ background-color:  rgb(36,37,42);
+ color:white;
+ font-size: 17px;
+ padding-left: 20px;
+ padding-right: 20px;
+ box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+.navitems{
+  font-size: 13px;
+  width:25%;
+  margin:auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.image{
+  width:"10px";
+  height:"10px"
+}
+
+button{
+   /* width:70%; */
+   width:100px;
+   height: 30px;
+  border: 0;
+  border-radius: 15px;
+  background-color: rgb(11,134,159);
+  color: white;
+}
